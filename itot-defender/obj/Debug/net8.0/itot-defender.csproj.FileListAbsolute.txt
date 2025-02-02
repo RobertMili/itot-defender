@@ -287,9 +287,7 @@ C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender\bin\Debug\net8
 C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender\bin\Debug\net8.0\itot-defender.Domain.dll
 C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender\bin\Debug\net8.0\itot-defender.Infrastructure.dll
 C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender\bin\Debug\net8.0\itot-defender.Service.dll
-C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender\bin\Debug\net8.0\Shared.dll
 C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender\bin\Debug\net8.0\itot-defender.Service.pdb
-C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender\bin\Debug\net8.0\Shared.pdb
 C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender\bin\Debug\net8.0\itot-defender.Domain.pdb
 C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender\bin\Debug\net8.0\itot-defender.Infrastructure.pdb
 C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender\obj\Debug\net8.0\itot-defender.csproj.AssemblyReference.cache
@@ -315,3 +313,17 @@ C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender\obj\Debug\net8
 C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender\obj\Debug\net8.0\itot-defender.pdb
 C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender\obj\Debug\net8.0\itot-defender.genruntimeconfig.cache
 C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender\obj\Debug\net8.0\ref\itot-defender.dll
+C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender\obj\Debug\net8.0\itot-defender.sourcelink.json
+C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender\bin\Debug\net8.0\Serilog.dll
+C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender\bin\Debug\net8.0\Serilog.Sinks.File.dll

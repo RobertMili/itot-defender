@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("itot-defender.Presentation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7549eab64100bcc373d86ba035090258a2fc30a")]
 [assembly: System.Reflection.AssemblyProductAttribute("itot-defender.Presentation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("itot-defender.Presentation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

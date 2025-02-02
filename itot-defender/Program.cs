@@ -1,3 +1,4 @@
+using System;
 using itot_defender.Infrastructure.Data;
 using itot_defender.Infrastructure.Repositories;
 using itot_defender.Domain.Interfaces;
@@ -6,10 +7,20 @@ using Microsoft.EntityFrameworkCore;
 using itot_defender.Service.Services;
 using Microsoft.FeatureManagement;
 using Swashbuckle.AspNetCore.SwaggerGen;
+using Serilog;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddControllers();
+// Configure Serilog
+Log.Logger = new LoggerConfiguration()
+    .WriteTo.Console()
+    .WriteTo.File("logs/log.txt", rollingInterval: RollingInterval.Day)
+    .CreateLogger();
+
+builder.Host.UseSerilog();
+
+builder.Services.AddControllers()
+    .AddApplicationPart(typeof(itot_defender.Service.Controllers.ProductsController).Assembly);
 builder.Services.AddDbContext<DataContext>(options =>
     options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
 builder.Services.AddScoped<IProductRepository, ProductRepository>();

@@ -20,3 +20,5 @@ C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\Shared\obj\Debug\net8.0\Shar
 C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\Shared\obj\Debug\net8.0\refint\Shared.dll
 C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\Shared\obj\Debug\net8.0\Shared.pdb
 C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\Shared\obj\Debug\net8.0\ref\Shared.dll
+C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\Shared\obj\Debug\net8.0\Shared.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\Shared\obj\Debug\net8.0\Shared.sourcelink.json

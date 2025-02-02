@@ -32,3 +32,4 @@ C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender.Service\obj\De
 C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender.Service\obj\Debug\net8.0\refint\itot-defender.Service.dll
 C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender.Service\obj\Debug\net8.0\itot-defender.Service.pdb
 C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender.Service\obj\Debug\net8.0\ref\itot-defender.Service.dll
+C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender.Service\obj\Debug\net8.0\itot-defender.Service.sourcelink.json

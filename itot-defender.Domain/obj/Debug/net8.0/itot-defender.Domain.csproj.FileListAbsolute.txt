@@ -20,3 +20,4 @@ C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender.Domain\obj\Deb
 C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender.Domain\obj\Debug\net8.0\refint\itot-defender.Domain.dll
 C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender.Domain\obj\Debug\net8.0\itot-defender.Domain.pdb
 C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender.Domain\obj\Debug\net8.0\ref\itot-defender.Domain.dll
+C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender.Domain\obj\Debug\net8.0\itot-defender.Domain.sourcelink.json

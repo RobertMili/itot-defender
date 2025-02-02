@@ -10,6 +10,7 @@ public class ProductService
 
     public ProductService(IProductRepository productRepository)
     {
+        Console.WriteLine("ProductService constructor");
         _productRepository = productRepository;
     }
 

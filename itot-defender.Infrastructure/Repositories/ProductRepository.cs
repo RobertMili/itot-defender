@@ -12,6 +12,7 @@ public class ProductRepository : IProductRepository
 
     public ProductRepository(DataContext context)
     {
+        Console.WriteLine("ProductRepository constructor");
         _context = context;
     }
 

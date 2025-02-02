@@ -32,3 +32,4 @@ C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender.Infrastructure
 C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender.Infrastructure\obj\Debug\net8.0\itot-defender.Infrastructure.pdb
 C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender.Infrastructure\obj\Debug\net8.0\itot-defender.Infrastructure.genruntimeconfig.cache
 C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender.Infrastructure\obj\Debug\net8.0\ref\itot-defender.Infrastructure.dll
+C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender.Infrastructure\obj\Debug\net8.0\itot-defender.Infrastructure.sourcelink.json
