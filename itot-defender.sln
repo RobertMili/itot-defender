@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "itot-defender", "itot-defender\itot-defender.csproj", "{352F54D5-63B7-44D5-B284-9EA146B45088}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{35432007-47E7-490F-87D8-622B62F80240}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "itot-defender.Service", "itot-defender.Service\itot-defender.Service.csproj", "{6B8ED57B-3C0E-411A-85AB-1340E764B5B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "itot-defender.Domain", "itot-defender.Domain\itot-defender.Domain.csproj", "{76CA1CA9-FF00-499F-A071-2AD16FDAF5B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "itot-defender.Infrastructure", "itot-defender.Infrastructure\itot-defender.Infrastructure.csproj", "{00EE5E4D-BA88-4A7B-AE36-20E5614724CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "itot-defender.Presentation", "itot-defender.Presentation\itot-defender.Presentation.csproj", "{FFF9E355-530C-40EA-B0AB-C21339109FB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{352F54D5-63B7-44D5-B284-9EA146B45088}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{352F54D5-63B7-44D5-B284-9EA146B45088}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{352F54D5-63B7-44D5-B284-9EA146B45088}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{352F54D5-63B7-44D5-B284-9EA146B45088}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35432007-47E7-490F-87D8-622B62F80240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35432007-47E7-490F-87D8-622B62F80240}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35432007-47E7-490F-87D8-622B62F80240}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35432007-47E7-490F-87D8-622B62F80240}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B8ED57B-3C0E-411A-85AB-1340E764B5B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B8ED57B-3C0E-411A-85AB-1340E764B5B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B8ED57B-3C0E-411A-85AB-1340E764B5B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B8ED57B-3C0E-411A-85AB-1340E764B5B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76CA1CA9-FF00-499F-A071-2AD16FDAF5B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76CA1CA9-FF00-499F-A071-2AD16FDAF5B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76CA1CA9-FF00-499F-A071-2AD16FDAF5B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76CA1CA9-FF00-499F-A071-2AD16FDAF5B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00EE5E4D-BA88-4A7B-AE36-20E5614724CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00EE5E4D-BA88-4A7B-AE36-20E5614724CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00EE5E4D-BA88-4A7B-AE36-20E5614724CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00EE5E4D-BA88-4A7B-AE36-20E5614724CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFF9E355-530C-40EA-B0AB-C21339109FB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFF9E355-530C-40EA-B0AB-C21339109FB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFF9E355-530C-40EA-B0AB-C21339109FB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFF9E355-530C-40EA-B0AB-C21339109FB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

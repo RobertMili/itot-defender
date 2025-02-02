@@ -1,0 +1,34 @@
+C:\Users\JI3360\OneDrive - SKF\Desktop\Robert_Code\itot-defender\itot-defender.Service\obj\Debug\net8.0\itot-defender.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JI3360\OneDrive - SKF\Desktop\Robert_Code\itot-defender\itot-defender.Service\obj\Debug\net8.0\itot-defender.Service.AssemblyInfoInputs.cache
+C:\Users\JI3360\OneDrive - SKF\Desktop\Robert_Code\itot-defender\itot-defender.Service\obj\Debug\net8.0\itot-defender.Service.AssemblyInfo.cs
+C:\Users\JI3360\OneDrive - SKF\Desktop\Robert_Code\itot-defender\itot-defender.Service\obj\Debug\net8.0\itot-defender.Service.csproj.CoreCompileInputs.cache
+C:\Users\JI3360\OneDrive - SKF\Desktop\Robert_Code\itot-defender\itot-defender.Service\obj\Debug\net8.0\itot-defender.Service.csproj.AssemblyReference.cache
+C:\Users\JI3360\OneDrive - SKF\Desktop\Robert_Code\itot-defender\itot-defender.Service\bin\Debug\net8.0\itot-defender.Service.deps.json
+C:\Users\JI3360\OneDrive - SKF\Desktop\Robert_Code\itot-defender\itot-defender.Service\bin\Debug\net8.0\itot-defender.Service.dll
+C:\Users\JI3360\OneDrive - SKF\Desktop\Robert_Code\itot-defender\itot-defender.Service\bin\Debug\net8.0\itot-defender.Service.pdb
+C:\Users\JI3360\OneDrive - SKF\Desktop\Robert_Code\itot-defender\itot-defender.Service\bin\Debug\net8.0\itot-defender.Domain.dll
+C:\Users\JI3360\OneDrive - SKF\Desktop\Robert_Code\itot-defender\itot-defender.Service\bin\Debug\net8.0\itot-defender.Infrastructure.dll
+C:\Users\JI3360\OneDrive - SKF\Desktop\Robert_Code\itot-defender\itot-defender.Service\bin\Debug\net8.0\itot-defender.Domain.pdb
+C:\Users\JI3360\OneDrive - SKF\Desktop\Robert_Code\itot-defender\itot-defender.Service\bin\Debug\net8.0\itot-defender.Infrastructure.pdb
+C:\Users\JI3360\OneDrive - SKF\Desktop\Robert_Code\itot-defender\itot-defender.Service\obj\Debug\net8.0\itot-def.3A772D29.Up2Date
+C:\Users\JI3360\OneDrive - SKF\Desktop\Robert_Code\itot-defender\itot-defender.Service\obj\Debug\net8.0\itot-defender.Service.dll
+C:\Users\JI3360\OneDrive - SKF\Desktop\Robert_Code\itot-defender\itot-defender.Service\obj\Debug\net8.0\refint\itot-defender.Service.dll
+C:\Users\JI3360\OneDrive - SKF\Desktop\Robert_Code\itot-defender\itot-defender.Service\obj\Debug\net8.0\itot-defender.Service.pdb
+C:\Users\JI3360\OneDrive - SKF\Desktop\Robert_Code\itot-defender\itot-defender.Service\obj\Debug\net8.0\ref\itot-defender.Service.dll
+C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender.Service\bin\Debug\net8.0\itot-defender.Service.deps.json
+C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender.Service\bin\Debug\net8.0\itot-defender.Service.dll
+C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender.Service\bin\Debug\net8.0\itot-defender.Service.pdb
+C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender.Service\bin\Debug\net8.0\itot-defender.Domain.dll
+C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender.Service\bin\Debug\net8.0\itot-defender.Infrastructure.dll
+C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender.Service\bin\Debug\net8.0\itot-defender.Domain.pdb
+C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender.Service\bin\Debug\net8.0\itot-defender.Infrastructure.pdb
+C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender.Service\obj\Debug\net8.0\itot-defender.Service.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender.Service\obj\Debug\net8.0\itot-defender.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender.Service\obj\Debug\net8.0\itot-defender.Service.AssemblyInfoInputs.cache
+C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender.Service\obj\Debug\net8.0\itot-defender.Service.AssemblyInfo.cs
+C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender.Service\obj\Debug\net8.0\itot-defender.Service.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender.Service\obj\Debug\net8.0\itot-def.3A772D29.Up2Date
+C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender.Service\obj\Debug\net8.0\itot-defender.Service.dll
+C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender.Service\obj\Debug\net8.0\refint\itot-defender.Service.dll
+C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender.Service\obj\Debug\net8.0\itot-defender.Service.pdb
+C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender.Service\obj\Debug\net8.0\ref\itot-defender.Service.dll

@@ -1,0 +1,22 @@
+C:\Users\JI3360\OneDrive - SKF\Desktop\Robert_Code\itot-defender\itot-defender.Domain\bin\Debug\net8.0\itot-defender.Domain.deps.json
+C:\Users\JI3360\OneDrive - SKF\Desktop\Robert_Code\itot-defender\itot-defender.Domain\bin\Debug\net8.0\itot-defender.Domain.dll
+C:\Users\JI3360\OneDrive - SKF\Desktop\Robert_Code\itot-defender\itot-defender.Domain\bin\Debug\net8.0\itot-defender.Domain.pdb
+C:\Users\JI3360\OneDrive - SKF\Desktop\Robert_Code\itot-defender\itot-defender.Domain\obj\Debug\net8.0\itot-defender.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JI3360\OneDrive - SKF\Desktop\Robert_Code\itot-defender\itot-defender.Domain\obj\Debug\net8.0\itot-defender.Domain.AssemblyInfoInputs.cache
+C:\Users\JI3360\OneDrive - SKF\Desktop\Robert_Code\itot-defender\itot-defender.Domain\obj\Debug\net8.0\itot-defender.Domain.AssemblyInfo.cs
+C:\Users\JI3360\OneDrive - SKF\Desktop\Robert_Code\itot-defender\itot-defender.Domain\obj\Debug\net8.0\itot-defender.Domain.csproj.CoreCompileInputs.cache
+C:\Users\JI3360\OneDrive - SKF\Desktop\Robert_Code\itot-defender\itot-defender.Domain\obj\Debug\net8.0\itot-defender.Domain.dll
+C:\Users\JI3360\OneDrive - SKF\Desktop\Robert_Code\itot-defender\itot-defender.Domain\obj\Debug\net8.0\refint\itot-defender.Domain.dll
+C:\Users\JI3360\OneDrive - SKF\Desktop\Robert_Code\itot-defender\itot-defender.Domain\obj\Debug\net8.0\itot-defender.Domain.pdb
+C:\Users\JI3360\OneDrive - SKF\Desktop\Robert_Code\itot-defender\itot-defender.Domain\obj\Debug\net8.0\ref\itot-defender.Domain.dll
+C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender.Domain\bin\Debug\net8.0\itot-defender.Domain.deps.json
+C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender.Domain\bin\Debug\net8.0\itot-defender.Domain.dll
+C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender.Domain\bin\Debug\net8.0\itot-defender.Domain.pdb
+C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender.Domain\obj\Debug\net8.0\itot-defender.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender.Domain\obj\Debug\net8.0\itot-defender.Domain.AssemblyInfoInputs.cache
+C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender.Domain\obj\Debug\net8.0\itot-defender.Domain.AssemblyInfo.cs
+C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender.Domain\obj\Debug\net8.0\itot-defender.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender.Domain\obj\Debug\net8.0\itot-defender.Domain.dll
+C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender.Domain\obj\Debug\net8.0\refint\itot-defender.Domain.dll
+C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender.Domain\obj\Debug\net8.0\itot-defender.Domain.pdb
+C:\Users\rober\OneDrive\Skrivbord\SKF\itot-defender\itot-defender.Domain\obj\Debug\net8.0\ref\itot-defender.Domain.dll

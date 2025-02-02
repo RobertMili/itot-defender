@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <RootNamespace>itot_defender.Presentation</RootNamespace>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+
+    <ItemGroup>
+        <ProjectReference Include="..\itot-defender\itot-defender.csproj" />
+        <ProjectReference Include="..\itot-defender.Service\itot-defender.Service.csproj" />
+    </ItemGroup>
+
+</Project>

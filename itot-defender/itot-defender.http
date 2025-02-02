@@ -1,0 +1,6 @@
+@itot_defender_HostAddress = http://localhost:5294
+
+GET {{itot_defender_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

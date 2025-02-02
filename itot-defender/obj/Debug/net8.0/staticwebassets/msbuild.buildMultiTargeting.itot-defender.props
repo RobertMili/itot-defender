@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\itot-defender.props" />
+</Project>
